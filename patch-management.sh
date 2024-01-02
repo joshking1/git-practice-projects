@@ -12,3 +12,8 @@ sudo apt-get update
 
 sudo apt-get upgrade -y 
 
+# we are now going to clean our system 
+
+sudo apt-get autoclean -y  
+
+sudo apt-get clean -y 
