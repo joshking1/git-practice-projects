@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# This works in ubuntu
 # We are going to focus on ubuntu distros 
 # apt ==> the package manager we are going use to manage 
 # packages in our ubuntu server 
