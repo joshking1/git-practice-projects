@@ -13,3 +13,5 @@
 # To run the script, use this command 
 
 ./patch-management.sh 
+
+Goodluck 
