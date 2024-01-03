@@ -15,3 +15,5 @@
 ./patch-management.sh 
 
 Goodluck 
+
+This repository is prepared by AmazingDevOps.Com 
