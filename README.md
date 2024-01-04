@@ -14,15 +14,4 @@
 
 ./patch-management.sh 
 
-Goodluck 
-
-This repository is prepared by AmazingDevOps.Com 
-
-This Script is used to upgrade, update,  and autoclean our ubuntu systems 
-
-Today is january 03 2022 
-
-Ubuntu is one of the many flavors of linux 
-
-
-Centos is preferred over ubuntu because it is more secure out of the box 
+ 
