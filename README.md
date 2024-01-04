@@ -19,3 +19,5 @@ Goodluck
 This repository is prepared by AmazingDevOps.Com 
 
 This Script is used to upgrade, update,  and autoclean our ubuntu systems 
+
+Today is january 03 2022 
