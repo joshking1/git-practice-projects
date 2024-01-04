@@ -23,3 +23,6 @@ sudo date
 sudo nproc
 
 pwd 
+sudo nproc 
+
+sudo lsblk 
