@@ -19,3 +19,5 @@ sudo apt-get autoclean -y
 sudo apt-get clean -y 
 
 sudo date
+
+sudo apt update 
