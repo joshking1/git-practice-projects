@@ -14,4 +14,4 @@
 
 ./patch-management.sh 
 
- 
+# We are going to run this in our ubuntu server  
