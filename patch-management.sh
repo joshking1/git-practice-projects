@@ -3,7 +3,7 @@
 # We are going to focus on ubuntu distros 
 # apt ==> the package manager we are going use to manage 
 # packages in our ubuntu server 
-
+# There are many packages that can update
 # Command to check that all the packages are available in our system 
 
 sudo apt-get update 
