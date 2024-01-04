@@ -20,4 +20,6 @@ sudo apt-get clean -y
 
 sudo date 
 
-sudo nproc 
+sudo nproc
+
+pwd 
