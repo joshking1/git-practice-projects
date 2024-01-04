@@ -15,3 +15,5 @@
 ./patch-management.sh 
 
 # We are going to run this in our ubuntu server  
+
+# Ubuntu is used by 34% of the organizations 
