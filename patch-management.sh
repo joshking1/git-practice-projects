@@ -26,3 +26,5 @@ pwd
 sudo nproc 
 
 sudo lsblk 
+
+sudo nproc 
