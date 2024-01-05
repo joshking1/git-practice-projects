@@ -5,7 +5,7 @@
 # packages in our ubuntu server 
 # There are many packages that can update
 # Command to check that all the packages are available in our system 
-
+# This is the starting point of our script
 sudo apt-get update 
 
 # we are now going to upgrade all the packages 
